@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "emkayDauda/CustomThemingExample",
+    "stargazers_count": 39,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "emkayDauda/ColorSlider",
+    "stargazers_count": 45,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "Oluwatemmy/Student-Management-API",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -14,8 +26,8 @@
   {
     "full_name": "realpython/materials",
     "stargazers_count": 4194,
-    "open_issues_count": 41,
-    "forks_count": 5192
+    "open_issues_count": 42,
+    "forks_count": 5194
   },
   {
     "full_name": "bugtijamal/flaskblog",
@@ -25,8 +37,8 @@
   },
   {
     "full_name": "Pierian-Data/Complete-Python-3-Bootcamp",
-    "stargazers_count": 23338,
+    "stargazers_count": 23364,
     "open_issues_count": 178,
-    "forks_count": 78016
+    "forks_count": 78074
   }
 ]

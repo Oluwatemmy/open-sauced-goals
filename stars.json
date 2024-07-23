@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "sir-temi/pykuda",
+    "stargazers_count": 73,
+    "open_issues_count": 5,
+    "forks_count": 72
+  },
+  {
     "full_name": "Oluwatemmy/Link-Ease",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "realpython/materials",
-    "stargazers_count": 4730,
+    "stargazers_count": 4731,
     "open_issues_count": 50,
-    "forks_count": 5291
+    "forks_count": 5293
   },
   {
     "full_name": "bugtijamal/flaskblog",
@@ -49,8 +55,8 @@
   },
   {
     "full_name": "Pierian-Data/Complete-Python-3-Bootcamp",
-    "stargazers_count": 26810,
+    "stargazers_count": 26837,
     "open_issues_count": 228,
-    "forks_count": 84295
+    "forks_count": 84339
   }
 ]

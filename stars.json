@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Emmanueliwok24/portfolio",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "sir-temi/pykuda",
     "stargazers_count": 102,
     "open_issues_count": 2,
@@ -43,8 +49,8 @@
   },
   {
     "full_name": "realpython/materials",
-    "stargazers_count": 4820,
-    "open_issues_count": 61,
+    "stargazers_count": 4818,
+    "open_issues_count": 62,
     "forks_count": 5308
   },
   {
@@ -55,8 +61,8 @@
   },
   {
     "full_name": "Pierian-Data/Complete-Python-3-Bootcamp",
-    "stargazers_count": 27600,
+    "stargazers_count": 27615,
     "open_issues_count": 238,
-    "forks_count": 85483
+    "forks_count": 85502
   }
 ]
